@@ -35,16 +35,18 @@ The objective of this project is to build an image classification system capable
 
 ## Project Structure
 
-
+```
 Butterfly_Flask_Project/
 │
 ├── app.py
+├── class_indices.json
 ├── butterfly_model.keras
 ├── requirements.txt
 ├── README.md
 │
 ├── templates/
-    └── index.html
+│   └── index.html
+```
 
 
 
