@@ -94,14 +94,13 @@ http://127.0.0.1:5000
 
 Input Image:
 
-- Monarch Butterfly
+- Cleopatra Butterfly
 
 Prediction:
 
 ```
-Predicted: MONARCH (0.98)
+Predicted: CLEOPATRA (0.98)
 ```
-
 
 
 ## Author
